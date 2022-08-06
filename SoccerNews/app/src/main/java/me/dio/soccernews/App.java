@@ -2,9 +2,6 @@ package me.dio.soccernews;
 
 import android.app.Application;
 
-/**
- * FIXME
- * */
 public class App extends Application {
 
     private static App instance;
